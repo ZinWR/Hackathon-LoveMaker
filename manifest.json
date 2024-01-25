@@ -1,0 +1,11 @@
+{
+  "name": "Love Maker",
+  "version": "1.0.0",
+  "description": "This is an extension to impress your crush",
+  "manifest_version": 3,
+  "author": "Quan & Ron",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Love Maker"
+  }
+}
